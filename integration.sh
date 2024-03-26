@@ -1,6 +1,6 @@
 #!/bin/bash
 pwd
 ls
-systemctl start httpd
-systemctl enable httpd
+sudo systemctl start httpd
+sudo systemctl enable httpd
 
