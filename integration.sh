@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 pwd
 ls
 systemctl start httpd
